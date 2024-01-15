@@ -32,7 +32,7 @@ Basicamente o projeto foi capaz de realizar as seguintes tarefas:
       
 <img src="Assets/img/QRcode.png" alt="css3" width="200" height="200"/>
 
-## 🚀 Link site copie e cole no navegador!
+## 🚀 Link do site copie e cole no navegador!
 
 ```
 https://first-site-full-version.vercel.app/
